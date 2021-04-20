@@ -1,1 +1,0 @@
-alter table conta add column status varchar(20) null;
